@@ -1,0 +1,3 @@
+->In intellij go to git
+->select github-share project on github
+->Click all the files that have to be uploaded and then click on share.
